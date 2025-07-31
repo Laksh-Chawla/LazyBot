@@ -1,26 +1,54 @@
-Custom BSD 3-Clause License with Non-Commercial and Branding Restrictions
+Laksh Chawla License (LCL) v1.0
+Copyright (c) 2025 Laksh Chawla
 
-Copyright (c) 2025, Laksh Chawla
-All rights reserved.
+This software is provided under the terms below:
 
-Redistribution and use in source and binary forms, with or without modification, are permitted for non-commercial purposes only, provided that the following conditions are met:
+---
 
-1. Redistributions of source code must retain the above copyright notice, this list of conditions, and the following disclaimer.
+1. Rights Granted to the Public
 
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+You are permitted to:
+- View, use, modify, and fork this source code for personal, educational, or non-commercial research purposes.
+- Share original or modified versions, provided you comply with this license.
 
-3. Neither the name "LazyBot", nor the name of the repository, project, organization, nor the names of its contributors may be used to endorse or promote derived products without specific prior written permission.
+You are NOT permitted to:
+- Use this software or any derivatives for commercial purposes unless you have received **explicit, written permission** from the original author.
 
-4. Forks or modified versions must:
-   a. Use a clearly distinguishable name from the original project.
-   b. Not use the same logo, branding, or visual identity of the original project.
-   c. Not suggest or imply any form of affiliation with or endorsement by the original project or its authors, unless explicitly permitted in writing.
+---
 
-5. This software and all derivative works may NOT be used, in whole or in part, for any commercial purposes without explicit prior written permission from the original author(s). This includes but is not limited to:
-   - Selling or licensing the software or any part of it
-   - Using it in paid products or services
-   - Integrating it into monetized platforms or applications
+2. Commercial Use & Licensing
 
-DISCLAIMER:
+The author, Laksh Chawla, retains **exclusive rights to commercialize** this software.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Any other party wishing to use this software (or modified versions) for commercial purposes **must obtain prior written consent** from the author.
+
+Such consent:
+- **May include royalty fees or licensing costs**, as determined by the author.
+- **Will be governed by a separate written agreement**, negotiated and signed by both parties.
+
+Commercial use **without this agreement is strictly prohibited**.
+
+---
+
+3. Naming, Branding, and Representation
+
+- You must NOT use the name “LazyBot”, the original repository name, project branding, logos, or any related visual identity in your fork or distribution without explicit permission.
+- Forks and modified versions MUST use a clearly different name and identity.
+- You must NOT imply any official status, affiliation, or endorsement by Laksh Chawla unless explicitly authorized in writing.
+
+---
+
+4. Termination of Rights
+
+Violation of any clause in this license will result in **immediate termination** of all granted rights, including use, modification, or distribution. Legal action may be pursued.
+
+---
+
+5. No Warranty
+
+This software is provided “AS IS” without any warranty. The author disclaims all liability for damages resulting from the use of this software.
+
+---
+
+To request commercial use or licensing, contact:
+Laksh Chawla — [insert GitHub profile or email here]
