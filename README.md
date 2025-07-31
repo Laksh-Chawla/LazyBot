@@ -15,4 +15,4 @@ This project is licensed under the **Laksh Chawla License (LCL) v1.0**.
 Commercial licensing (which may include royalties) is available upon request and subject to a future agreement.  
 See [LICENSE](./LICENSE) for full terms.
 
-To request commercial use: [Your contact info here]
+To request commercial use: laksh2997@gmail.com
